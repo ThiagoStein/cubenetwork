@@ -1,4 +1,4 @@
-Desafio de fullstack que realizei
+Desafio de fullstack
 
-Conforme o link a ideia é reproduzir um simples site onde possa realizar cadastro de pessoas com seu nome, sobrenome e participação, e com essas informações gerar um dashbord
+Conforme o repositorio abaixo o intuito é reproduzir um simples site onde se realizar cadastro de pessoas com seu nome, sobrenome e participação, e com essas informações gerar um dashbord
 https://github.com/cubonetwork/fullstack-challenge
